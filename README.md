@@ -1,5 +1,7 @@
 # Generative AI on Google Cloud
 
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://codspeed.io/ahamedjobayer081-spec/generative-ai?utm_source=badge)
+
 > **[Gemini 3.1 Pro](https://cloud.google.com/vertex-ai/generative-ai/docs/models/gemini/3-1-pro) has been released!**
 >
 > Here are the latest notebooks and demos using the new model:
