@@ -13,3 +13,4 @@ streamlit
 streamlit-drawable-canvas
 vertexai
 google-cloud-storage==2.19.0
+lxml>=6.1.0 # not directly required, pinned by Snyk to avoid a vulnerability
